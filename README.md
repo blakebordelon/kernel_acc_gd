@@ -1,5 +1,7 @@
 
-README File for Approximate Architecture Search with Accelerated Kernel Methods
+Approximate Architecture Search with Accelerated Kernel Methods
+
+See the pdf of the final report above.
 
 kernel_mse.ipynb contains code to run kernel regression on least squares for CIFAR-10(0)
 
